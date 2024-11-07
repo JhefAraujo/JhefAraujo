@@ -12,7 +12,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FFF&color:FFF)](mailto:jhefferson.araujo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/jhefferson-araujo-dev/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FFF&color:FFF)](https://www.instagram.com/vt5ria/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FFF&color:FFF)](https://wa.me/5511990199155)
 
 <h3 align="left">Minha Stack</h3>
 
